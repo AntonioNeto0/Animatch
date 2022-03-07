@@ -11,3 +11,8 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+st.write('Média de Rating = ' + str(round(ds['Rating'].mean(),4)))
+st.markdown('**TIPOS DE ANIME**')
+ds_type = ds['Type'].value_counts().plot(kind = 'barh')
+st.pyplot(ds_type.figure)
