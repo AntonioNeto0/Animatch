@@ -1,0 +1,17 @@
+Rank   		- Ordem da classificação do anime dada pelo site Anime Planet
+Name   		- Nome "global" do anime, geralmente em inglês
+Japanese_name		- Nome original (Japonês) do anime
+Type			- Tipo do anime com relação ao seu meio des distribuição (Tv, Filme, OVA, DVD, etc.)
+Episodes		- número de episodios
+Studio			- Studio que produziu a animação
+Realease_season	- Muitos animes tem um ciclo de publicação sazonal, sendo esse o caso, a estão do ano em que o anime é publicado
+Tags			- Genêros e subgenêros que o anime se enquadra
+Rating			- Classificação do anime dada pelo site Anime Planet
+Release_year		- Ano de lançamento
+End_year		- Ano em que parou de ser produzido
+Description		- Sinopse do anime
+Content_Warning	- Aviso de conteúdo (violento, sexual, etc.)
+Related_Mange		- Caso o anime seja baseado em um mangá, o nome do mangá
+Related_Anime		- Caso o anime seja relacionado a outros animes (temporadas diferentes, filmes, etc.)
+Voice_actors		- Dubladores dos personagens
+Staff			- Nome de membros relevantes da produção (diretor, criador, idelizador, etc.) 
