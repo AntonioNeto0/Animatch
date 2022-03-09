@@ -15,7 +15,7 @@ def main():
     st.markdown('**TIPOS DE ANIME**')
 
     #Substituindo a Release_season FALL por AUTUMN
-    ds['Release_season'].replace(['Fall'],'Autumn',inplace=True)
+    ds['Release_season'].replace(['Fall '],'Autumn',inplace=True)
 
     #Plotandao graficos pela barra lateral
     grafico = st.sidebar.selectbox('Gaficos',['Type','Release_season'])
